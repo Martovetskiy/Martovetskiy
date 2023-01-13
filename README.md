@@ -21,7 +21,6 @@
 
 <code><a href="https://t.me/mrzillagold"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Telegram.png"></a></code> 
 <code><a href="https://vk.com/id233731786"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/VK.png"></a></code> 
-
 ### На чем, с помощью чего и где...
 <code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code> 
 <code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
@@ -36,7 +35,7 @@
 </a>
 
 ### Недельная сводка моего труда
-<a href="https://wakatime.com/@MrZillaGold">
+<a href="https://wakatime.com/@Martovetskiy">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Martovetskiy" alt="Martovetskiy: статистика Wakatime"></code>
 </a>
 
