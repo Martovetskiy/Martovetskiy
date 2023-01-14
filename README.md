@@ -1,6 +1,6 @@
 ### Привет, я @Martovetskiy <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<a>✌</a> Пишу все и для всего, от простого калькулятора на python до кроссплатформенного приложения, потратил на это [![wakatime](https://wakatime.com/badge/user/10da1549-bcdb-4af9-9da3-6acda43316a1.svg)](https://wakatime.com/@cdf5e860-8386-446c-a663-af5ee7e2b4f4)  с 2019 года.
+<a>✌</a> Пишу все и для всего, от простого калькулятора на python до кроссплатформенного приложения, потратил на это [![wakatime](https://wakatime.com/badge/user/10da1549-bcdb-4af9-9da3-6acda43316a1.svg)](https://wakatime.com/@10da1549-bcdb-4af9-9da3-6acda43316a1)  с 2019 года.
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Martovetskiy&show_icons=true&theme=tokyonight" />
