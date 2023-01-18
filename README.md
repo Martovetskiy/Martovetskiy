@@ -17,7 +17,7 @@
 
 <p> </p>
  
-У вас появились вопросы по сотрудничеству или иным интересным делам, пишите сюда:
+###У вас появились вопросы по сотрудничеству или иным интересным делам, пишите сюда:
 
 <code><a href="https://t.me/LonePlusOnel"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Telegram.png"></a></code> 
 <code><a href="https://vk.com/loneplusonel"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/VK.png"></a></code> 
