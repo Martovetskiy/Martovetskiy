@@ -6,6 +6,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Martovetskiy&show_icons=true&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github.r2v.ch/codewars?user=Martovetskiy&stroke=%23BB432C" />
+</a>
+
 <a>🎮</a> Свое время провожу в [War Thunder](https://warthunder.ru/ru/community/userinfo/?nick=Anesidora4689%40live), буду рад поиграть в отряде вместе с вами)
 
 <body> 
