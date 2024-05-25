@@ -26,7 +26,7 @@
 <code><a href="https://t.me/LonePlusOnel"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Telegram.png"></a></code> 
 <code><a href="https://vk.com/loneplusonel"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/VK.png"></a></code> 
 ### На чем, с помощью чего и где...
-<code><img height="32" width="32" src="[https://cdn-icons-png.flaticon.com/512/6132/6132221.png](https://cdn-icons-png.flaticon.com/128/5968/5968350.png)"></code> 
+<code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code> 
 <code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
 <code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></code> 
 <code><img height="32" width="32" src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2021/07/NET_Logo-320x320.png"></code>
