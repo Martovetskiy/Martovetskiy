@@ -10,29 +10,14 @@
   <img align="center" src="https://github.r2v.ch/codewars?user=Martovetskiy&stroke=%23BB432C" />
 </a>
 
-<a>🎮</a> Свое время провожу в [War Thunder](https://warthunder.ru/ru/community/userinfo/?nick=Anesidora4689%40live), буду рад поиграть в отряде вместе с вами)
 
-<body> 
-<p> 
-  <img height="126" src="https://drive.google.com/uc?export=download&confirm=no_antivirus&id=1n1ZNLBlMdETDreYz26hbGeM28wZ7Fc3q"> 
-  </p>
-</body>
-<a href="https://thunderskill.com/ru/stat/Anesidora4689@live" target="_blank"><img src="https://thunderskill.com/userbars/a/n/Anesidora4689@live/ru-1-kpd-r.png"></a>
-
-<p> </p>
- 
 ### У вас появились вопросы по сотрудничеству или иным интересным делам, пишите сюда:
 
 <code><a href="https://t.me/LonePlusOnel"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/Telegram.png"></a></code> 
 <code><a href="https://vk.com/loneplusonel"><img height="32" width="32" src="https://github.com/MrZillaGold/MrZillaGold/raw/master/icons/VK.png"></a></code> 
-### На чем, с помощью чего и где...
+### Что умею
 <code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code> 
 <code><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png"></code>
-<code><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></code> 
-<code><img height="32" width="32" src="https://d1tlzifd8jdoy4.cloudfront.net/wp-content/uploads/2021/07/NET_Logo-320x320.png"></code>
-<code><img width="32" height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"></code> 
-<code><img width="32" height="32" src="https://avatars.githubusercontent.com/u/5766497?s=200&v=4"></code>
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="start" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Martovetskiy" />
@@ -42,7 +27,6 @@
 <a href="https://wakatime.com/@Martovetskiy">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Martovetskiy" alt="Martovetskiy: статистика Wakatime"></code>
 </a>
-
 
 
 
