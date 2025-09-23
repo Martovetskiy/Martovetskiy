@@ -31,6 +31,11 @@ Android & Kotlin • Jetpack Compose • NixOS • Dotfiles tinkerer
   <img src="https://github-profile-trophy.vercel.app/?username=Martovetskiy&theme=flat&no-frame=true&margin-w=8&margin-h=8&column=6" alt="trophies" />
 </a>
 
+<!-- WakaTime badge (GitHub repo) -->
+<a href="https://wakatime.com/badge/github/Martovetskiy/Martovetskiy" title="Coding time tracked by WakaTime">
+  <img src="https://wakatime.com/badge/user/10da1549-bcdb-4af9-9da3-6acda43316a1.svg" alt="WakaTime badge" />
+</a>
+
 </div>
 
 ## About me
